@@ -3,7 +3,7 @@ source venv/bin/activate
 
 pip install -r requirements.txt
 
-python app.py
+python uploader_gui.py
 
 
 # 🎬 YouTube Bulk Uploader GUI (Tkinter + YouTube API)
